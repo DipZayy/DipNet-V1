@@ -1,32 +1,7 @@
-*{
-
-    margin:0;
-    
-    padding:0;
-    
-    }
-    
-     
-    
-    body, html{height:100%;}   
-    
-    #main{
-    
-    max-width:1280px;
-    
-    min-height:100%;
-    
-    margin:0 auto;
-    
-    position:relative;
-    
-    }
-    
-     
-    
     footer{
     
     background:#ccc;
+    background:rgb(133, 128, 128);
     
     position:absolute;
 
