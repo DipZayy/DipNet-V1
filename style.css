@@ -8,15 +8,7 @@
     
      
     
-    body, html{height:100%;}
-    
-    body{
-    
-    text-align:center;
-    
-    }
-    
-     
+    body, html{height:100%;}   
     
     #main{
     
@@ -37,6 +29,8 @@
     background:#ccc;
     
     position:absolute;
+
+    text-align:center;
     
     bottom:0;
     
