@@ -1,25 +1,41 @@
 body{
-    background-color: rgb(226, 224, 224);
+    background-color:rgb(226, 224, 224);
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
 }
-
+   
 footer{
-background-color: aliceblue;
-position: fixed;
-vertical-align:middle;
-text-align:center;
-bottom:0;
-width:100%;
-padding-top:40px;
-height:40px;
-margin: 0;
-padding: 1.5% 0;
+    background-color: aliceblue;
+    position: fixed;
+    text-align:center;
+    bottom:0;
+    width:100%;
+    padding-top:35px;
+    height:35px;
+    margin: 0;
+    padding: 1.5% 0;
 }
 
-#zob{
+#header{
     background-color: aliceblue;
+    height: 50px;
+    margin:0;
+    padding: 0.1% 0;  
+}
+
+#himg{
+    position: relative;
+    width : 30px ;
+	height : 30px  ;
+    margin:0 ;
+    padding:0 1% ;
+    top: -40px 
+}
+
+#htxt{
+    text-align: center;
+    width: 11%;
     margin: 0;
-    padding: 0.2% 0;
+    padding: 1% 0;
 }
